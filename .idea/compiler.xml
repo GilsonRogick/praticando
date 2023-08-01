@@ -9,5 +9,8 @@
         <module name="praticando" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="praticando.java" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
